@@ -1,9 +1,6 @@
-## 👋 Hi there
-
-**`  Digital Craftsmanship  `**
-
+### Hi there, I'm Andreas 👋
 I'm a software engineer who forges backends, tames cloud infrastructure, and ships things that last.</br>
-6+ years of turning complex problems into clean, scalable systems.
+**`6+ years`** of turning complex problems into clean, scalable systems.
 
 #### Primary Languages
 <p>
@@ -43,10 +40,7 @@ I'm a software engineer who forges backends, tames cloud infrastructure, and shi
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
 </p>
 
----
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arechta&card_width=400&hide=issues&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=58A6FF&text_color=BCCAD1&icon_color=4C8EDA&bg_color=151B22&title=Repositories&custom_title=Repositories"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arechta&card_width=380&layout=compact&langs_count=9&include_all_commits=true&theme=dark&hide_border=true&title_color=58A6FF&text_color=BCCAD1&icon_color=4C8EDA&bg_color=151B22&title=Languages&custom_title=Languages"/>
-</p>
+📫 Let's connect:
+- Linked-in: [@asphira.andreas](https://www.linkedin.com/in/asphira-andreas/)
+- Instagram: [@asphira.andreas](https://www.instagram.com/asphira.andreas/)
+- Open an issue on the project
