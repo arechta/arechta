@@ -41,6 +41,7 @@ I'm a software engineer who forges backends, tames cloud infrastructure, and shi
 </p>
 
 📫 Let's connect:
-- Linked-in: [@asphira.andreas](https://www.linkedin.com/in/asphira-andreas/)
+- Linked-in: [in/asphira.andreas](https://www.linkedin.com/in/asphira-andreas/)
 - Instagram: [@asphira.andreas](https://www.instagram.com/asphira.andreas/)
+- Website: [https://arechta.dev](https://arechta.dev)
 - Open an issue on the project
